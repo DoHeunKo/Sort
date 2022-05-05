@@ -44,3 +44,13 @@
 
 ### 6. 힙정렬
 ![image](https://user-images.githubusercontent.com/98294597/166947129-ad3fb132-971c-46eb-9cf6-64ae2179b2da.png)
+### best case
+![image](https://user-images.githubusercontent.com/98294597/166949757-492080dd-dd97-4603-bed5-cc1fbaa4d850.png)
+
+### worst case
+![image](https://user-images.githubusercontent.com/98294597/166950255-49520b12-ef87-4f88-8608-b9cafaf1ae39.png)
+
+### random case
+![image](https://user-images.githubusercontent.com/98294597/166950887-754cafa9-6a59-4950-b918-d9c271f58690.png)
+
+
