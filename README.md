@@ -24,24 +24,23 @@ worst case : 반대로 정렬이 된 배열
 ## 입력 개수에 따른 시간 그래프  
 
 ### 1. 선택정렬
-![image](https://user-images.githubusercontent.com/98294597/166940674-8ca5b803-31b9-496f-b5c8-e7d3f4feed59.png)
-
+![image](https://user-images.githubusercontent.com/98294597/166945065-be17ad4a-376d-4b6e-961c-3011b9799e9b.png)
 
 ### 2. 삽입정렬
-![image](https://user-images.githubusercontent.com/98294597/166940794-598195a5-d978-47fc-9e92-21c1c110a18a.png)
+![image](https://user-images.githubusercontent.com/98294597/166945497-30d85860-436f-4bcc-b977-e2966ff5c220.png)
 
 
 ### 3. 버블정렬
-![image](https://user-images.githubusercontent.com/98294597/166940877-2123d1de-a852-46f1-bfdc-6c0a2355042e.png)
+![image](https://user-images.githubusercontent.com/98294597/166945944-dc1f8f7d-59fc-4b31-8c26-0e043eeee566.png)
 
 
 ### 4. 쉘정렬
-![image](https://user-images.githubusercontent.com/98294597/166940957-9f918cc6-766c-450a-a9a3-8159c25703a9.png)
+![image](https://user-images.githubusercontent.com/98294597/166946382-a4333d6d-cc20-4bb2-8da2-ff40548171fb.png)
 
 
 ### 5. 퀵정렬
-![image](https://user-images.githubusercontent.com/98294597/166941036-a38fee9f-d5a1-4aa5-9a37-427dc5554776.png)
+![image](https://user-images.githubusercontent.com/98294597/166946747-8b9ea655-effb-4b1a-8002-9d769d683eb4.png)
 
 
 ### 6. 힙정렬
-![image](https://user-images.githubusercontent.com/98294597/166941176-1c43cc63-abb8-4bea-b0d4-94b28cb6bbc5.png)
+![image](https://user-images.githubusercontent.com/98294597/166947129-ad3fb132-971c-46eb-9cf6-64ae2179b2da.png)
